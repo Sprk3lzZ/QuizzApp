@@ -1,0 +1,8 @@
+{
+  "labels": {
+    "questionnumber": "Número de pregunta",
+    "score": "Puntuación",
+    "true": "Real",
+    "false": "Falso"
+  }
+}
